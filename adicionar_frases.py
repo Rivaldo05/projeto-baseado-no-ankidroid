@@ -1,7 +1,7 @@
 from tkinter import *
 import os
 
-# caminho do programa agenda
+# caminho do programa
 c = os.path.dirname(__file__)
 nome_arquivo= c+"\\frases1.txt"
 
