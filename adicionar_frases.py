@@ -10,7 +10,7 @@ def add():
 
     janela_add_frase = Tk()
     janela_add_frase.geometry("500x300")
-    janela_add_frase.title("Agenda_game")
+    janela_add_frase.title("projeto_anki")
     janela_add_frase.configure(bg="grey")
 
 
